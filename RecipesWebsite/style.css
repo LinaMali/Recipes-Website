@@ -1,0 +1,287 @@
+h1{
+ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-weight: 800;
+ font-style: oblique;
+ font-size: 70px;
+ color: #df1081;
+ padding-left: 1%;
+ margin-top: 0%;
+ margin-bottom: 0%;
+}
+.navigation{
+    background-color: rgb(7, 8, 8);
+    height: 50px;
+   margin-top: 20px; 
+   padding-left: 550px;
+}
+.navigation a{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    position: relative;
+     font-size: 1.5em;
+     color: #fff;
+     text-decoration: none;
+     font-weight: 500;
+     float: inherit;
+     margin-left: 40px;
+     margin-right: 20px;
+}
+.navigation a:hover{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  position: relative;
+   font-size: 1.5em;
+   color: rgb(248, 247, 161);
+   text-decoration: none;
+   font-weight: 500;
+   float: inherit;
+   margin-left: 40px;
+   margin-right: 20px;
+}
+.image{
+    padding-top: 1%; 
+}
+.quick{
+    padding-left: 500px;
+    color: #ffff;
+    background-color: rgb(78, 76, 76);
+    font-size: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.cont {
+    padding-left: 20px;
+    padding-right: 250px;
+  }
+  .table{
+padding-left: 50px;
+font-style: oblique;
+font-size: 20px;
+color: rgb(31, 141, 132);
+  }
+    .img 
+    {
+      opacity: 1;
+      -webkit-transition: .3s ease-in-out;
+      transition: .3s ease-in-out;
+      border:3px solid rgb(98, 228, 206);
+     border-inline-start-color: #e787bc;
+     border-inline-end-color: gold;
+     border-radius: 20px;
+   }
+   .img:hover{
+      opacity: .7;
+   }
+.text{
+  font-size: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  font-weight: 400;
+  padding-left: 80px;
+  padding-right: 80px;
+  margin-left: 10px;
+  font-size: x-large;
+  color: rgb(218, 62, 179);
+  width: 220px;
+  height: 290px;
+  border-radius: 20px 130px 30px 130px;
+  background-color: rgb(247, 240, 202);
+  border:5px solid rgb(33, 19, 73);
+  border-inline-start-color: #cf1378;
+  border-inline-end-color: gold;
+}
+.text1{
+  font-size: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  font-weight: 400;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  font-size: x-large;
+  color: rgb(218, 62, 179);
+  width: 110px;
+  height: 290px;
+  border-radius: 9200px;
+  background-color: rgb(247, 219, 202);
+  border:5px solid rgb(27, 110, 97);
+  border-inline-start-color: #4d1031;
+  border-inline-end-color: gold;
+  border-top-color: chartreuse ;
+}
+.text2{
+  font-size: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  font-weight: 400;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 40px;
+  margin-left: 80px;
+  font-size: x-large;
+  color: rgb(218, 62, 179);
+  width: 110px;
+  height: 290px;
+  border-radius: 80px 80px 80px 80px;
+  background-color: rgb(217, 255, 181);
+  border:5px solid rgb(37, 185, 163);
+  border-inline-start-color: #4d1031;
+  border-inline-end-color: gold;
+  border-top-color: chartreuse ;
+}
+.text:hover{
+  color: rgb(20, 131, 98);
+  background-color: rgb(247, 219, 202);
+  border:5px solid gold;
+  border-inline-start-color:rgb(33, 19, 73);
+  border-inline-end-color: #cf1378;
+}
+.text1:hover{
+  background-color: rgb(209, 243, 232);
+  color: rgb(78, 7, 78);
+  border:5px solid gold;
+  border-inline-start-color:  rgb(27, 110, 97);
+  border-inline-end-color: chartreuse;
+  border-top-color:  #4d1031 ;
+}
+.text2:hover{
+  color: rgb(85, 25, 109);
+  border:5px solid gold;
+  border-inline-start-color:   rgb(37, 185, 163);
+  border-inline-end-color: chartreuse;
+  border-top-color:  #4d1031 ;
+}
+
+.Home{
+padding-left: 50px;
+padding-right: 40px;
+background-color: rgb(252, 222, 208);
+}
+.image{
+    transition: 0.5s ease;
+     border:5px solid rgb(98, 228, 206);
+     border-inline-start-color: #d4167f;
+     border-inline-end-color: gold;
+     border-radius: 20px;
+     padding-top: 0px;
+}
+.image:hover{
+  transform: scale(0.9);  
+  cursor: pointer;
+  border:5px solid rgb(98, 228, 206);
+  border-inline-start-color: gold;
+  border-inline-end-color: #d4167f;
+  border-radius: 20px;
+  padding-top: 0px;
+}
+h3{
+  font-size: x-large;
+}
+ 
+#submit{
+  color: black;
+  font-size: medium;
+  font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(240, 194, 194);
+ padding-left: 10px;
+ padding-right: 10px;
+ padding-bottom: 5px;
+ margin-top: 8px;
+}
+
+
+.Contact1{
+  background-color:white;
+  border-radius: 20px 30px 20px 30px;
+ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  align-items: center;
+  width:450px;
+  height: 550px;
+  text-align: center;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-top: 5%;
+  margin-left: 25%;
+  margin-bottom: 10px;
+}
+.Contact1 h4{
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color: #5a0b49;
+ }
+ .Contact1 label{
+  
+  font-size: large;
+  margin-bottom: 10px;
+  margin-right: 300px;
+ }
+ #name{
+     color: black;
+     font-size: 15px;
+     width: 350px;
+     height: 30px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     border-radius: 10px;
+     background-color: #ddd;
+     margin-top: 20px;
+ }
+ #email{
+     color: black;
+     font-size: 15px;
+     width: 350px;
+     height: 30px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     border-radius: 10px;
+     background-color: #ddd;
+     margin-top: 20px;
+ }
+ 
+ #msg{
+     color: black;
+     font-size: 15px;
+     width: 350px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     border-radius: 10px;
+     background-color: #ddd;
+     margin-top: 20px;
+ }
+ #submit1{
+  
+         color:white;
+         background-color: green;
+         font-size: larger;
+         font-weight: 300;
+         font-style: italic;
+         margin-top: 40px;
+         padding-left: 20px;
+         padding-right: 20px;
+         border-radius: 5px;
+         margin-right:40px;
+     }
+     #name:focus{
+         color: rgb(177, 10, 10);
+         font-size: 15px;
+         width: 350px;
+         height: 30px;
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         border-radius: 10px;
+         background-color: #f7f7f7;
+         margin-top: 20px;
+     }
+     #email:focus{
+         color: rgb(177, 10, 10);
+         font-size: 15px;
+         width: 350px;
+         height: 30px;
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         border-radius: 10px;
+         background-color:#f7f7f7;
+         margin-top: 20px;
+     }
+     #submit1:hover{
+         background-color: rgb(189, 23, 11);
+         color: white;
+     }
